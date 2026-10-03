@@ -47,7 +47,7 @@
 
 | Proyecto | Qué es |
 |---|---|
-| [**Cachivache**](https://github.com/soypacodev/cachivache) | Limpiador de disco para Windows que te explica qué va a borrar y por qué, y nunca toca nada dudoso sin preguntarte. PowerShell + WPF, sin dependencias, con tests y versiones firmadas con SHA-256. |
+| [**Cachivache**](https://github.com/soypacodev/cachivache) | Limpiador de disco para Windows que te explica qué va a borrar y por qué, y nunca toca nada dudoso sin preguntarte. PowerShell + WPF, sin dependencias, con tests y versiones verificadas con SHA-256. |
 | *Próximamente* | Nuevos proyectos de webs seguras. ¡Atento! |
 
 ---
