@@ -68,4 +68,4 @@
 
 Have an idea, or a web app you're worried about? **Message me and I'll tell you how I'd approach it, no strings attached.**
 
-<
+</details>
