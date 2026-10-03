@@ -40,6 +40,7 @@
 </p>
 
 **Seguridad:** autenticación y control de accesos (Row Level Security), OWASP Top 10, pentesting y hardening.
+
 **Certificaciones:** (ISC)² Certified in Cybersecurity · Fortinet NSE 1-3 · Google IT Support · Cisco · CCN-CERT.
 
 ### Proyectos destacados
