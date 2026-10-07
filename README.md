@@ -67,4 +67,16 @@
 
 Have an idea, or a web app you're worried about? **Message me and I'll tell you how I'd approach it, no strings attached.**
 
+**Tech:** JavaScript, TypeScript, React, Angular, Node.js, Supabase, PostgreSQL, Python, PowerShell, Power BI.
+
+**Security:** authentication and access control (Row Level Security), OWASP Top 10, pentesting and hardening.
+
+**Certifications:** (ISC)² Certified in Cybersecurity · Fortinet NSE 1-3 · Google IT Support · Cisco · CCN-CERT.
+
+**Featured project**
+
+- [**Cachivache**](https://github.com/soypacodev/cachivache): a Windows disk cleaner that explains what it will delete and why, and never touches anything doubtful without asking. PowerShell + WPF, no dependencies, 2,400 automated tests and SHA-256 verified releases. *(Interface in Spanish.)*
+
+**Contact:** [soypacodev@gmail.com](mailto:soypacodev@gmail.com) · [Instagram @soypacodev](https://instagram.com/soypacodev)
+
 </details>
