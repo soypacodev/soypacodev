@@ -47,6 +47,7 @@
 
 | Proyecto | Qué es |
 |---|---|
+| [**Ovillo & Co.**](https://github.com/soypacodev/ovillo-co) · [demo](https://ovillo-co.vercel.app) | Tienda online completa para un taller pequeño: catálogo con filtros, pago con Stripe, cuentas de cliente y panel del dueño con ventas, pedidos y stock. Next.js + Supabase, con la seguridad de los datos resuelta en la propia base de datos. |
 | [**Cachivache**](https://github.com/soypacodev/cachivache) | Limpiador de disco para Windows que te explica qué va a borrar y por qué, y nunca toca nada dudoso sin preguntarte. PowerShell + WPF, sin dependencias, con tests y versiones verificadas con SHA-256. |
 
 ---
@@ -73,8 +74,9 @@ Have an idea, or a web app you're worried about? **Message me and I'll tell you 
 
 **Certifications:** (ISC)² Certified in Cybersecurity · Fortinet NSE 1-3 · Google IT Support · Cisco · CCN-CERT.
 
-**Featured project**
+**Featured projects**
 
+- [**Ovillo & Co.**](https://github.com/soypacodev/ovillo-co) ([live demo](https://ovillo-co.vercel.app)): a complete online shop for a small craft business, with catalogue, Stripe checkout, customer accounts and an owner dashboard. Next.js + Supabase with row-level security. *(In Spanish.)*
 - [**Cachivache**](https://github.com/soypacodev/cachivache): a Windows disk cleaner that explains what it will delete and why, and never touches anything doubtful without asking. PowerShell + WPF, no dependencies, 2,400 automated tests and SHA-256 verified releases. *(Interface in Spanish.)*
 
 **Contact:** [soypacodev@gmail.com](mailto:soypacodev@gmail.com) · [Instagram @soypacodev](https://instagram.com/soypacodev)
