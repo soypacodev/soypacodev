@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://soypacodev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-soypacodev.vercel.app-1D4ED8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://instagram.com/soypacodev"><img src="https://img.shields.io/badge/Instagram-@soypacodev-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:soypacodev@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-0D9488?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Disponible-para_proyectos-15803D?style=flat-square" alt="Disponible para proyectos">
@@ -81,6 +82,6 @@ Have an idea, or a web app you're worried about? **Message me and I'll tell you 
 - [**Cachivache**](https://github.com/soypacodev/cachivache): a Windows disk cleaner that explains what it will delete and why, and never touches anything doubtful without asking. PowerShell + WPF, no dependencies, 2,400 automated tests and SHA-256 verified releases. *(Interface in Spanish.)*
 - [**¿Es segura tu web?**](https://github.com/soypacodev/es-segura-tu-web) ([live demo](https://es-segura-tu-web.vercel.app)): a free website security checker. Paste an address and get an A+ to F grade with a plain-language report, PDF export and shareable links. Passive analysis with SSRF protection, nonce-based CSP and almost 1,000 tests. Next.js 16 + TypeScript + Supabase. *(In Spanish.)*
 
-**Contact:** [soypacodev@gmail.com](mailto:soypacodev@gmail.com) · [Instagram @soypacodev](https://instagram.com/soypacodev)
+**Contact:** [Portfolio](https://soypacodev.vercel.app) · [soypacodev@gmail.com](mailto:soypacodev@gmail.com) · [Instagram @soypacodev](https://instagram.com/soypacodev)
 
 </details>
