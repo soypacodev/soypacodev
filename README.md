@@ -49,6 +49,7 @@
 |---|---|
 | [**Ovillo & Co.**](https://github.com/soypacodev/ovillo-co) · [demo](https://ovillo-co.vercel.app) | Tienda online completa para un taller pequeño: catálogo con filtros, pago con Stripe, cuentas de cliente y panel del dueño con ventas, pedidos y stock. Next.js + Supabase, con la seguridad de los datos resuelta en la propia base de datos. |
 | [**Cachivache**](https://github.com/soypacodev/cachivache) | Limpiador de disco para Windows que te explica qué va a borrar y por qué, y nunca toca nada dudoso sin preguntarte. PowerShell + WPF, sin dependencias, con tests y versiones verificadas con SHA-256. |
+| [**¿Es segura tu web?**](https://github.com/soypacodev/es-segura-tu-web) · [demo](https://es-segura-tu-web.vercel.app) | Analizador gratuito de seguridad web: pegas una dirección y recibes una nota de la A+ a la F con un informe en lenguaje llano, PDF y enlace para compartir. Análisis pasivo con protección SSRF, CSP con nonce y casi 1.000 tests. Next.js 16 + TypeScript + Supabase. |
 
 ---
 
@@ -78,6 +79,7 @@ Have an idea, or a web app you're worried about? **Message me and I'll tell you 
 
 - [**Ovillo & Co.**](https://github.com/soypacodev/ovillo-co) ([live demo](https://ovillo-co.vercel.app)): a complete online shop for a small craft business, with catalogue, Stripe checkout, customer accounts and an owner dashboard. Next.js + Supabase with row-level security. *(In Spanish.)*
 - [**Cachivache**](https://github.com/soypacodev/cachivache): a Windows disk cleaner that explains what it will delete and why, and never touches anything doubtful without asking. PowerShell + WPF, no dependencies, 2,400 automated tests and SHA-256 verified releases. *(Interface in Spanish.)*
+- [**¿Es segura tu web?**](https://github.com/soypacodev/es-segura-tu-web) ([live demo](https://es-segura-tu-web.vercel.app)): a free website security checker. Paste an address and get an A+ to F grade with a plain-language report, PDF export and shareable links. Passive analysis with SSRF protection, nonce-based CSP and almost 1,000 tests. Next.js 16 + TypeScript + Supabase. *(In Spanish.)*
 
 **Contact:** [soypacodev@gmail.com](mailto:soypacodev@gmail.com) · [Instagram @soypacodev](https://instagram.com/soypacodev)
 
